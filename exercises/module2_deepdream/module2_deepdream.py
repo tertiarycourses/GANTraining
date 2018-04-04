@@ -1,5 +1,5 @@
 # Generative Adversarial Networks (GAN) Course  for Beginners
-# Module 4: DeepDream
+# Module 2: DeepDream
 
 from keras.applications import inception_v3
 from keras import backend as K
@@ -10,8 +10,7 @@ K.set_learning_phase(0)
 
 # Build the InceptionV3 network.
 # The model will be loaded with pre-trained ImageNet weights.
-model = inception_v3.InceptionV3(weights='imagenet',
-                                 include_top=False)
+model = inception_v3.InceptionV3(weights='imagenet', include_top=False)
 
 print(model.summary())
 # Dict mapping layer names to a coefficient
@@ -157,6 +156,6 @@ for shape in successive_shapes:
 
     img += lost_detail
     shrunk_original_img = resize_img(original_img, shape)
-    save_img(img, fname='./images/dream_at_scale_' + str(shape) + '.png')
+    save_img(img, fname='./images/dream_' + str(shape) + '.png')
 
 save_img(img, fname='./images/final_dream.png')
