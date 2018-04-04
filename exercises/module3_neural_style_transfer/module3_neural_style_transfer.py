@@ -4,7 +4,7 @@
 from keras.preprocessing.image import load_img, img_to_array
 
 # This is the path to the image you want to transform.
-target_image_path = './images/house.jpg'
+target_image_path = './images/vincent.jpg'
 # This is the path to the style image.
 style_reference_image_path = './images/vangogh.jpg'
 

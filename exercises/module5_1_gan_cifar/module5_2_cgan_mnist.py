@@ -1,5 +1,6 @@
 # Generative Adversarial Networks (GAN) Course  for Beginners
 # Module 5: Generative Adversarial Networks (GAN)
+# Conditional GAN
 
 import tensorflow as tf
 import numpy as np

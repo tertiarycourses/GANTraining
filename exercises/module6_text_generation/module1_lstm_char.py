@@ -1,5 +1,5 @@
 # Generative Adversarial Networks (GAN) Course  for Beginners
-# Module 1: Overview of Generative Models
+# Module 6: Char by Char Text Generation
 
 import keras
 import numpy as np
@@ -7,7 +7,9 @@ import numpy as np
 path = keras.utils.get_file( 'nietzsche.txt',
     origin='https://s3.amazonaws.com/text-datasets/nietzsche.txt')
 text = open(path).read().lower()
-print('Corpus length:', len(text))
+# print(text)
+# print('Corpus length:', len(text))
+
 
 # Length of extracted character sequences
 maxlen = 60
@@ -75,7 +77,7 @@ for epoch in range(1, 60):
     generated_text = text[start_index: start_index + maxlen]
     print('--- Generating with seed: "' + generated_text + '"')
 
-    for temperature in [0.2, 0.5, 1.0, 1.2]:
+    for temperature in [0.2,1.2]:
         print('------ temperature:', temperature)
         sys.stdout.write(generated_text)
 

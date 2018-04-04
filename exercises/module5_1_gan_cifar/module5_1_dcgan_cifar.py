@@ -1,5 +1,6 @@
 # Generative Adversarial Networks (GAN) Course  for Beginners
 # Module 5: Generative Adversarial Networks (GAN)
+# Deep Convolutional GAN
 
 import keras
 from keras import layers
@@ -37,7 +38,7 @@ x = layers.LeakyReLU()(x)
 # Produce a 32x32 1-channel feature map
 x = layers.Conv2D(channels, 7, activation='tanh', padding='same')(x)
 generator = keras.models.Model(generator_input, x)
-generator.summary()
+#print(generator.summary())
 
 # The discriminator
 
@@ -59,7 +60,7 @@ x = layers.Dropout(0.4)(x)
 x = layers.Dense(1, activation='sigmoid')(x)
 
 discriminator = keras.models.Model(discriminator_input, x)
-discriminator.summary()
+# print(discriminator.summary())
 
 # To stabilize training, we use learning rate decay
 # and gradient clipping (by value) in the optimizer.
