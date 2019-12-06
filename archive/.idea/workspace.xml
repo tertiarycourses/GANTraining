@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80a4864d-0bbc-4854-80b5-0715bfd50c33" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="module1_lstm_char.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module6_text_generation/module1_lstm_char.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2465">
+              <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module2_deepdream.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module2_deepdream/module2_deepdream.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="25" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module3_neural_style_transfer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module3_neural_style_transfer_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4495">
+              <caret line="155" column="14" selection-start-line="155" selection-start-column="14" selection-end-line="155" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module4_vae.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module4_vae/module4_vae.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3625">
+              <caret line="125" column="10" selection-end-line="125" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module5_1_dcgan_cifar.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module5_1_gan_cifar/module5_1_dcgan_cifar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1537">
+              <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module3_neural_style_transfer_exercise.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer_exercise.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="module2_deepdream_exercise.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module2_deepdream/module2_deepdream_exercise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2784">
+              <caret line="96" column="13" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module5_2_cgan_mnist.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module5_1_gan_cifar/module5_2_cgan_mnist.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="333" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module5_2_dcgan_mnist.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module5_2_gan_mnist/module5_2_dcgan_mnist.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>range</find>
+      <find>epoch</find>
+      <find>print</find>
+      <find>xrange</find>
+      <find>frog</find>
+      <find>result_prefix</find>
+      <find>vgg16</find>
+      <find>save</find>
+      <find>inception_v3</find>
+      <find>mixed2</find>
+      <find>fname</find>
+      <find>pickle</find>
+      <find>latent_size</find>
+      <find>incep</find>
+      <find>vgg19</find>
+      <find>inception</find>
+      <find>incept</find>
+      <find>vgg</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/module1.py" />
+        <option value="$PROJECT_DIR$/module5.py" />
+        <option value="$PROJECT_DIR$/module4_deepdream.py" />
+        <option value="$PROJECT_DIR$/module5_neural_style_transfer.py" />
+        <option value="$PROJECT_DIR$/module4_autoencoder.py" />
+        <option value="$PROJECT_DIR$/module5_gan.py" />
+        <option value="$PROJECT_DIR$/module5_2_gan_mnist/mnist_gan.py" />
+        <option value="$PROJECT_DIR$/module5_2_gan_mnist/mnist_dcgan.py" />
+        <option value="$PROJECT_DIR$/module3_neural_style_transfer.py" />
+        <option value="$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer_vgg166.py" />
+        <option value="$PROJECT_DIR$/module2_deepdream/module2_deepdream_exercise.py" />
+        <option value="$PROJECT_DIR$/module1_overview/module1_lstm_char.py" />
+        <option value="$PROJECT_DIR$/module5_1_gan_cifar/module5_1_acgan_mnist.py" />
+        <option value="$PROJECT_DIR$/module5_1_gan_cifar/test.py" />
+        <option value="$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer.py" />
+        <option value="$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer2.py" />
+        <option value="$PROJECT_DIR$/module4_vae/module4_vae2.py" />
+        <option value="$PROJECT_DIR$/module5_1_gan_cifar/module5_2_cgan_mnist.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/module2_deepdream/module2_deepdream.py" />
+        <option value="$PROJECT_DIR$/module2_deepdream/module2_deepdream_2.py" />
+        <option value="$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer_2.py" />
+        <option value="$PROJECT_DIR$/module4_vae/module4_vae.py" />
+        <option value="$PROJECT_DIR$/module5_1_gan_cifar/module5_1_dcgan_cifar.py" />
+        <option value="$PROJECT_DIR$/module6_text_generation/module1_lstm_char.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/module3_neural_style_transfer" />
+      <recent name="$PROJECT_DIR$/module2_deepdream" />
+      <recent name="$PROJECT_DIR$/module4_vae" />
+      <recent name="$PROJECT_DIR$/module5_1_gan_cifar" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.module1_lstm_char">
+    <configuration name="module1_lstm_char" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module6_text_generation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module6_text_generation/module1_lstm_char.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="module3_neural_style_transfer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module3_neural_style_transfer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="module3_neural_style_transfer_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module3_neural_style_transfer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="module4_vae" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module4_vae" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module4_vae/module4_vae.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="module5_1_dcgan_cifar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module5_1_gan_cifar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module5_1_gan_cifar/module5_1_dcgan_cifar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.module3_neural_style_transfer" />
+      <item itemvalue="Python.module3_neural_style_transfer_2" />
+      <item itemvalue="Python.module4_vae" />
+      <item itemvalue="Python.module5_1_dcgan_cifar" />
+      <item itemvalue="Python.module1_lstm_char" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.module1_lstm_char" />
+        <item itemvalue="Python.module5_1_dcgan_cifar" />
+        <item itemvalue="Python.module4_vae" />
+        <item itemvalue="Python.module3_neural_style_transfer_2" />
+        <item itemvalue="Python.module3_neural_style_transfer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80a4864d-0bbc-4854-80b5-0715bfd50c33" name="Default" comment="" />
+      <created>1522476509839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522476509839</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23628692" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6728205" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/module6_text_generation/module1_lstm_char.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_deepdream/module2_deepdream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4495">
+          <caret line="155" column="14" selection-start-line="155" selection-start-column="14" selection-end-line="155" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module4_vae/module4_vae.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3625">
+          <caret line="125" column="10" lean-forward="true" selection-end-line="125" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module5_1_gan_cifar/module5_1_dcgan_cifar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1537">
+          <caret line="53" column="19" lean-forward="true" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer_exercise.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_deepdream/module2_deepdream_exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2784">
+          <caret line="96" column="13" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module5_1_gan_cifar/module5_2_cgan_mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="333" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module5_2_gan_mnist/module5_2_dcgan_mnist.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module6_text_generation/module1_lstm_char.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4183">
+          <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module5_1_gan_cifar/module5_2_cgan_mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module5_2_gan_mnist/module5_2_dcgan_mnist.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module6_text_generation/module1_lstm_char.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3827">
+          <caret line="89" column="18" selection-start-line="89" selection-start-column="18" selection-end-line="89" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module5_1_gan_cifar/module5_2_cgan_mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module5_2_gan_mnist/module5_2_dcgan_mnist.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_deepdream/module2_deepdream_exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1204">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_deepdream/module2_deepdream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_deepdream/module2_deepdream_exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module1_overview/module1_lstm_char.py" />
+    <entry file="file://$PROJECT_DIR$/module1.py" />
+    <entry file="file://$PROJECT_DIR$/module5.py" />
+    <entry file="file://$PROJECT_DIR$/module4_deepdream.py" />
+    <entry file="file://$PROJECT_DIR$/module5_neural_style_transfer.py" />
+    <entry file="file://$PROJECT_DIR$/module4_autoencoder.py" />
+    <entry file="file://$PROJECT_DIR$/module5_gan.py" />
+    <entry file="file://$PROJECT_DIR$/module5_2_gan_mnist/mnist_gan.py" />
+    <entry file="file://$PROJECT_DIR$/module5_2_gan_mnist/mnist_dcgan.py" />
+    <entry file="file://$PROJECT_DIR$/module5_1_gan_cifar.py" />
+    <entry file="file://$PROJECT_DIR$/module5_2_gan_mnist/module5_2_gan_mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module3_neural_style_transfer.py" />
+    <entry file="file://$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer_vgg166.py" />
+    <entry file="file://$PROJECT_DIR$/module1_overview/module1_lstm_char.py" />
+    <entry file="file://$PROJECT_DIR$/module5_1_gan_cifar/module5_1_acgan_mnist.py" />
+    <entry file="file://$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer2.py" />
+    <entry file="file://$PROJECT_DIR$/module4_vae/module4_vae2.py" />
+    <entry file="file://$PROJECT_DIR$/module5_1_gan_cifar/test.py" />
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_deepdream/module2_deepdream_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="152" column="25" lean-forward="true" selection-start-line="152" selection-start-column="25" selection-end-line="152" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module5_2_gan_mnist/module5_2_dcgan_mnist.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_deepdream/module2_deepdream_exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2784">
+          <caret line="96" column="13" selection-start-line="96" selection-start-column="10" selection-end-line="96" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module2_deepdream/module2_deepdream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer_exercise.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4495">
+          <caret line="155" column="14" selection-start-line="155" selection-start-column="14" selection-end-line="155" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module4_vae/module4_vae.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3625">
+          <caret line="125" column="10" selection-end-line="125" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module5_1_gan_cifar/module5_1_dcgan_cifar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1537">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module5_1_gan_cifar/module5_2_cgan_mnist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="333" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module6_text_generation/module1_lstm_char.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2465">
+          <caret line="85" column="20" selection-start-line="85" selection-start-column="20" selection-end-line="85" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module3_neural_style_transfer/module3_neural_style_transfer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
